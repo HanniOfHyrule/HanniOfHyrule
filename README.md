@@ -16,7 +16,7 @@
   </a>
 </div>
 
-##About me
+## About me
 
 My journey started as a javaScript developer and I am currently working as a frontend developer.
 
