@@ -3,11 +3,8 @@
 <img src="https://user-images.githubusercontent.com/48068241/192729177-f603245c-a444-4d01-ba29-1a85a2824d1a.png" width="200" />
 </div>
 
-### I'am Hanni, 
-#### a self-taught software developer who fell in love with coding.
-
-## About me
-
+## I'am Hanni, 
+### a self-taught software developer who fell in love with coding.
 My journey started as javaScript developer and I am currently working as frontend developer.
 
 - 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
@@ -15,7 +12,7 @@ My journey started as javaScript developer and I am currently working as fronten
 - 🌱 I’m currently learning Typescript and React.js
 - 📫 How to reach me: [Twitter](https://twitter.com/Hannis_Atelier) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love my beer warm.
+- ⚡ Fun fact: I am a great Yo-Gi-Oh fan. 
 
 ## Languages and Tools :
 
