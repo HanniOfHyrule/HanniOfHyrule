@@ -3,8 +3,8 @@
 <img src="https://user-images.githubusercontent.com/48068241/192729177-f603245c-a444-4d01-ba29-1a85a2824d1a.png" width="200" />
 </div>
 
-### I'am Hanni
-#### I am a self-taught software developer who fell in love with coding.
+### I'am Hanni, 
+#### a self-taught software developer who fell in love with coding.
 
 ## About me
 
