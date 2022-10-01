@@ -7,12 +7,12 @@
 ### a self-taught software developer who fall in love with coding.
 My journey started as javaScript developer and I’am currently working as frontend developer freelancer.
 
-- 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
+- 🔭 I’am currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
 - 📖 I’am currently in training at [Udacity](https://github.com/udacity) as a web developer
-- 🌱 I’m currently learning Typescript and React.js
+- 🌱 I’am currently learning Typescript and React.js
 - 📫 How to reach me: [Twitter](https://twitter.com/Hannis_Atelier) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a great Zelda fan. 
+- ⚡ Fun fact: I’am a great Zelda fan. 
 
 ## Languages and Tools :
 
