@@ -3,16 +3,16 @@
 <img src="https://user-images.githubusercontent.com/48068241/192729177-f603245c-a444-4d01-ba29-1a85a2824d1a.png" width="200" />
 </div>
 
-## I'am Hanni, 
-### a self-taught software developer who fell in love with coding.
-My journey started as javaScript developer and I am currently working as frontend developer.
+## I’am Hanni, 
+### a self-taught software developer who fall in love with coding.
+My journey started as javaScript developer and I’am currently working as frontend developer freelancer.
 
 - 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
-- 📖 I am currently in training at [Udacity](https://github.com/udacity) as a web developer
+- 📖 I’am currently in training at [Udacity](https://github.com/udacity) as a web developer
 - 🌱 I’m currently learning Typescript and React.js
 - 📫 How to reach me: [Twitter](https://twitter.com/Hannis_Atelier) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am a great Yo-Gi-Oh fan. 
+- ⚡ Fun fact: I am a great Zelda fan. 
 
 ## Languages and Tools :
 
