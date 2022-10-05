@@ -3,16 +3,16 @@
 <img src="https://user-images.githubusercontent.com/48068241/192729177-f603245c-a444-4d01-ba29-1a85a2824d1a.png" width="200" />
 </div>
 
-## I’am Hanni, 
-### a self-taught software developer who fall in love with coding.
-My journey started as javaScript developer and I’am currently working as frontend developer freelancer.
+## I’m Hanni, 
+### a self-taught software developer who fell in love with coding.
+My journey started as a JavaScript developer and I’m currently working as a freelancing frontend developer.
 
-- 🔭 I’am currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
-- 📖 I’am currently in training at [Udacity](https://github.com/udacity) as a web developer
-- 🌱 I’am currently learning Typescript and React.js
-- 📫 How to reach me: [Twitter](https://twitter.com/Hannis_Atelier) and [Instagram](https://www.instagram.com/hanniliebler/)
+- 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
+- 📖 I’m currently in training at [Udacity](https://github.com/udacity) as a fullstack developer
+- 🌱 I’m currently learning Typescript and React
+- 📫 How to reach me: [Twitter](https://twitter.com/Hanni_Liebler) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I’am a great Zelda fan. 
+- ⚡ As you might have guessed: I’m a huge Zelda fan. 
 
 ## Languages and Tools :
 
@@ -41,7 +41,7 @@ My journey started as javaScript developer and I’am currently working as front
   <a href="https://www.linkedin.com/in/hanni-liebler-936350220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Hannis_Atelier">
+  <a href="https://twitter.com/Hanni_Liebler">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
