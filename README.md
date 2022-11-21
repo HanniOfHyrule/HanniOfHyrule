@@ -9,7 +9,7 @@ My journey started as a JavaScript developer and I’m currently working as a fr
 
 - 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
 - 📖 I’m currently in training at [Udacity](https://github.com/udacity) as a fullstack developer
-- 🌱 I’m currently learning Typescript and React
+- 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me: [Twitter](https://twitter.com/Hanni_Liebler) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
 - ⚡ As you might have guessed: I’m a huge Zelda fan. 
