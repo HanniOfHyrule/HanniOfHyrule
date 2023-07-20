@@ -5,10 +5,9 @@
 
 ## I’m Hanni, 
 ### a self-taught software developer who fell in love with coding.
-My journey started as a JavaScript developer and I’m currently working as a freelancing frontend developer.
+My journey started as a JavaScript developer and I’m currently working as a frontend developer at [e2n](https://github.com/E2N).
 
 - 🔭 I’m currently working on [bookkeeping](https://github.com/HanniOfHyrule/bookkeeping)
-- 📖 I’m currently in training at [Udacity](https://github.com/udacity) as a fullstack developer
 - 🌱 I’m currently learning TypeScript and React
 - 📫 How to reach me: [Twitter](https://twitter.com/Hanni_Liebler) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
