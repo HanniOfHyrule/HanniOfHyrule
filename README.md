@@ -7,9 +7,9 @@
 ### a self-taught software developer who fell in love with coding.
 My journey started as a JavaScript developer and I’m currently working as a frontend developer at [e2n](https://github.com/E2N).
 
-- 🔭 I’m currently working on [conftube](https://github.com/conftube/conftube)
-- 🌱 I’m currently learning TypeScript and React
-- 📫 How to reach me: [Twitter](https://twitter.com/Hanni_Liebler) and [Instagram](https://www.instagram.com/hanniliebler/)
+- 🔭 I’m currently working on [housemeter](https://github.com/housemeter/housemeter)
+- 🌱 I’m currently learning TypeScript, React, GraphQl, git and MySQL
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanni-liebler/) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
 - ⚡ As you might have guessed: I’m a huge Zelda fan. 
 
@@ -27,6 +27,7 @@ My journey started as a JavaScript developer and I’m currently working as a fr
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>
 </div>
 
 ## :fire: My Stats :
