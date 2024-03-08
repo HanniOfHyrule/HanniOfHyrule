@@ -7,7 +7,7 @@
 ### a self-taught software developer who fell in love with coding.
 My journey started as a JavaScript developer and I’m currently working as a frontend developer at [e2n](https://github.com/E2N).
 
-- 🔭 I’m currently working on [housemeter](https://github.com/housemeter/housemeter)
+- 🔭 I’m currently working on [housemeter](https://github.com/HanniOfHyrule/housemeter)
 - 🌱 I’m currently learning TypeScript, React, GraphQl, git and MySQL
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanni-liebler/) and [Instagram](https://www.instagram.com/hanniliebler/)
 - 😄 Pronouns: she/her
