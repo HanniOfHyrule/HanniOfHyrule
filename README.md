@@ -41,7 +41,4 @@ My journey started as a JavaScript developer and I’m currently working as a fr
   <a href="https://www.linkedin.com/in/hanni-liebler-936350220/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/Hanni_Liebler">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
