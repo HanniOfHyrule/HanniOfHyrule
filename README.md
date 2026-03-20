@@ -7,10 +7,9 @@
 ### a self-taught software developer who fell in love with coding.
 My journey started as a JavaScript developer and I’m currently working as a frontend developer at [e2n](https://github.com/E2N).
 
-- 🔭 I’m currently working on [housemeter](https://github.com/HanniOfHyrule/housemeter)
+- 🔭 I’m currently working on [Gifty-McGiftface](https://github.com/HanniOfHyrule/Gifty-McGiftface) My Birthday organizing tool.
 - 🌱 I’m currently learning TypeScript, React, GraphQl, git and MySQL
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanni-liebler/) and [Instagram](https://www.instagram.com/hanniliebler/)
-- 😄 Pronouns: she/her
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hanni-liebler/)
 - ⚡ As you might have guessed: I’m a huge Zelda fan. 
 
 ## Languages and Tools :
@@ -33,6 +32,8 @@ My journey started as a JavaScript developer and I’m currently working as a fr
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanniOfHyrule&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=HanniOfHyrule)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanniOfHyrule&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
