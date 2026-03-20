@@ -24,10 +24,9 @@ My journey started as a JavaScript developer and I’m currently working as a fr
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typesrcipt/typescript.svg" title="typescript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" width="40" height="40"/>
 </div>
-![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 
 ## :fire: My Stats :
 
