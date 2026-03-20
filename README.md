@@ -26,13 +26,12 @@ My journey started as a JavaScript developer and I’m currently working as a fr
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-plain.svg" title="webpack" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="graphql" width="40" height="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;TypeScript+Lover;Open+Source+Fan" />
 </div>
 
 ## :fire: My Stats :
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanniOfHyrule&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanniOfHyrule&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Join me on 
